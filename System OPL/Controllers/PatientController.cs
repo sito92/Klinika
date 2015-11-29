@@ -82,7 +82,28 @@ namespace System_OPL
             return View(patients);
         }
 
-       
+        public ViewResult FakerCreate()
+        {
+            var amount = new FakerAmountViewModel();
+
+            return View(amount);
+        }
+
+        [HttpPost]
+        public ActionResult FakerCreate(FakerAmountViewModel faker)
+        {
+            if (ModelState.IsValid)
+            {
+                var clientRepo = new PatientRepository();
+                clientRepo.ClientFakerInsert(faker.Amount);
+
+                return RedirectToAction("List");
+            }
+
+            ModelState.AddModelError(null, "Podaj właściwą liczbę rekordów");
+            return View(faker);
+
+        }
             
 
     }

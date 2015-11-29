@@ -337,3 +337,5 @@ C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\obj\Debug\System_OPL.migra
 C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\obj\Debug\System_OPL.csproj.GenerateResource.Cache
 C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\obj\Debug\System_OPL.dll
 C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\obj\Debug\System_OPL.pdb
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\Faker.dll
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\obj\Debug\System_OPL.fix.resources

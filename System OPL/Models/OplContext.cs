@@ -19,6 +19,8 @@ namespace System_OPL.Models
         public DbSet<Infant> Infants { get; set; }
         public DbSet<Test> Tests { get; set; }
         public DbSet<WorkHour> WorkHours { get; set; }
+        public DbSet<ContactData> ContactDatas { get; set; }
+        public DbSet<HealthStatus> HealthStatuses { get; set; } 
         public DbSet<Supply> Supplies { get; set; }
     }
 }

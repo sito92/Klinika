@@ -39,6 +39,12 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="EntityFramework">
+      <HintPath>..\packages\EntityFramework.5.0.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="Faker">
+      <HintPath>..\packages\Faker.1.2\lib\Faker.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System" />
     <Reference Include="System.Data" />
@@ -60,9 +66,6 @@
     <Reference Include="System.Transactions" />
     <Reference Include="System.Web.Services" />
     <Reference Include="System.EnterpriseServices" />
-    <Reference Include="EntityFramework">
-      <HintPath>..\packages\EntityFramework.5.0.0\lib\net45\EntityFramework.dll</HintPath>
-    </Reference>
     <Reference Include="Microsoft.Web.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
       <Private>True</Private>
       <HintPath>..\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll</HintPath>
@@ -197,13 +200,21 @@
     <Compile Include="Migrations\201505302217511_migracja.Designer.cs">
       <DependentUpon>201505302217511_migracja.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201511291636312_fix.cs" />
+    <Compile Include="Migrations\201511291636312_fix.Designer.cs">
+      <DependentUpon>201511291636312_fix.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountModels.cs" />
+    <Compile Include="Models\ContactData.cs" />
     <Compile Include="Models\Doctor.cs" />
+    <Compile Include="Models\FakerAmountViewModel.cs" />
+    <Compile Include="Models\HealthStatus.cs" />
     <Compile Include="Models\Infant.cs" />
     <Compile Include="Models\Nurse.cs" />
     <Compile Include="Models\OplContext.cs" />
     <Compile Include="Models\Patient.cs" />
+    <Compile Include="Models\PatientRepository.cs" />
     <Compile Include="Models\Supply.cs" />
     <Compile Include="Models\Test.cs" />
     <Compile Include="Models\WorkHour.cs" />
@@ -329,6 +340,7 @@
     <Content Include="Views\Test\Create.cshtml" />
     <Content Include="Views\Test\Edit.cshtml" />
     <Content Include="Views\Test\Delete.cshtml" />
+    <Content Include="Views\Patient\FakerCreate.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
@@ -337,6 +349,9 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\201505302217511_migracja.resx">
       <DependentUpon>201505302217511_migracja.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201511291636312_fix.resx">
+      <DependentUpon>201511291636312_fix.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
