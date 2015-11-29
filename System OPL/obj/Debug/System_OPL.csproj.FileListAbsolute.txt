@@ -1,0 +1,339 @@
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\System_OPL.dll.config
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\System_OPL.dll
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\System_OPL.pdb
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\Antlr3.Runtime.dll
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\DotNetOpenAuth.AspNet.dll
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\DotNetOpenAuth.Core.dll
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\DotNetOpenAuth.OAuth.dll
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\DotNetOpenAuth.OpenId.dll
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\EntityFramework.dll
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\Microsoft.Data.Edm.dll
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\Microsoft.Data.OData.dll
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\Microsoft.Web.Infrastructure.dll
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\Microsoft.Web.WebPages.OAuth.dll
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\Newtonsoft.Json.dll
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\System.Spatial.dll
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\System.Web.Helpers.dll
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\System.Web.Http.OData.dll
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\System.Web.Mvc.dll
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\System.Web.Optimization.dll
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\System.Web.Razor.dll
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\System.Web.WebPages.Deployment.dll
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\System.Web.WebPages.dll
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\System.Web.WebPages.Razor.dll
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\WebGrease.dll
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\WebMatrix.Data.dll
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\WebMatrix.WebData.dll
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\EntityFramework.xml
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\Newtonsoft.Json.xml
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\System.Web.Helpers.xml
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\System.Web.Mvc.xml
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\System.Web.Razor.xml
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\System.Web.WebPages.xml
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\System.Web.WebPages.Deployment.xml
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\System.Web.WebPages.Razor.xml
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\WebMatrix.Data.xml
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\Microsoft.Web.WebPages.OAuth.xml
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\WebMatrix.WebData.xml
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\DotNetOpenAuth.AspNet.xml
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\DotNetOpenAuth.Core.xml
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\DotNetOpenAuth.OAuth.xml
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\DotNetOpenAuth.OpenId.xml
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\System.Web.Http.OData.xml
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\Microsoft.Data.Edm.xml
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\Microsoft.Data.OData.xml
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\System.Spatial.xml
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\de\Microsoft.Data.Edm.resources.dll
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\es\Microsoft.Data.Edm.resources.dll
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\fr\Microsoft.Data.Edm.resources.dll
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\it\Microsoft.Data.Edm.resources.dll
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\ja\Microsoft.Data.Edm.resources.dll
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\ko\Microsoft.Data.Edm.resources.dll
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\ru\Microsoft.Data.Edm.resources.dll
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\de\Microsoft.Data.OData.resources.dll
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\es\Microsoft.Data.OData.resources.dll
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\fr\Microsoft.Data.OData.resources.dll
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\it\Microsoft.Data.OData.resources.dll
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\ja\Microsoft.Data.OData.resources.dll
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\ko\Microsoft.Data.OData.resources.dll
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\ru\Microsoft.Data.OData.resources.dll
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\de\System.Spatial.resources.dll
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\es\System.Spatial.resources.dll
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\fr\System.Spatial.resources.dll
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\it\System.Spatial.resources.dll
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\ja\System.Spatial.resources.dll
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\ko\System.Spatial.resources.dll
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\ru\System.Spatial.resources.dll
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\zh-Hans\System.Spatial.resources.dll
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\bin\zh-Hant\System.Spatial.resources.dll
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\obj\Debug\System_OPL.csprojResolveAssemblyReference.cache
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\obj\Debug\System_OPL.dll
+c:\users\radosław szymański\documents\visual studio 2013\Projects\System OPL\System OPL\obj\Debug\System_OPL.pdb
+C:\Users\Radosław Szymański\documents\visual studio 2013\Projects\System OPL\System OPL\obj\Debug\System_OPL.migracja.resources
+C:\Users\Radosław Szymański\documents\visual studio 2013\Projects\System OPL\System OPL\obj\Debug\System_OPL.csproj.GenerateResource.Cache
+f:\Projekty\RadziuKlinikia\System OPL\bin\System_OPL.dll.config
+f:\Projekty\RadziuKlinikia\System OPL\bin\System_OPL.dll
+f:\Projekty\RadziuKlinikia\System OPL\bin\System_OPL.pdb
+f:\Projekty\RadziuKlinikia\System OPL\bin\Antlr3.Runtime.dll
+f:\Projekty\RadziuKlinikia\System OPL\bin\DotNetOpenAuth.AspNet.dll
+f:\Projekty\RadziuKlinikia\System OPL\bin\DotNetOpenAuth.Core.dll
+f:\Projekty\RadziuKlinikia\System OPL\bin\DotNetOpenAuth.OAuth.Consumer.dll
+f:\Projekty\RadziuKlinikia\System OPL\bin\DotNetOpenAuth.OAuth.dll
+f:\Projekty\RadziuKlinikia\System OPL\bin\DotNetOpenAuth.OpenId.dll
+f:\Projekty\RadziuKlinikia\System OPL\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+f:\Projekty\RadziuKlinikia\System OPL\bin\EntityFramework.dll
+f:\Projekty\RadziuKlinikia\System OPL\bin\Microsoft.Data.Edm.dll
+f:\Projekty\RadziuKlinikia\System OPL\bin\Microsoft.Data.OData.dll
+f:\Projekty\RadziuKlinikia\System OPL\bin\Microsoft.Web.Infrastructure.dll
+f:\Projekty\RadziuKlinikia\System OPL\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+f:\Projekty\RadziuKlinikia\System OPL\bin\Microsoft.Web.WebPages.OAuth.dll
+f:\Projekty\RadziuKlinikia\System OPL\bin\Newtonsoft.Json.dll
+f:\Projekty\RadziuKlinikia\System OPL\bin\System.Net.Http.Formatting.dll
+f:\Projekty\RadziuKlinikia\System OPL\bin\System.Spatial.dll
+f:\Projekty\RadziuKlinikia\System OPL\bin\System.Web.Helpers.dll
+f:\Projekty\RadziuKlinikia\System OPL\bin\System.Web.Http.dll
+f:\Projekty\RadziuKlinikia\System OPL\bin\System.Web.Http.OData.dll
+f:\Projekty\RadziuKlinikia\System OPL\bin\System.Web.Http.WebHost.dll
+f:\Projekty\RadziuKlinikia\System OPL\bin\System.Web.Mvc.dll
+f:\Projekty\RadziuKlinikia\System OPL\bin\System.Web.Optimization.dll
+f:\Projekty\RadziuKlinikia\System OPL\bin\System.Web.Razor.dll
+f:\Projekty\RadziuKlinikia\System OPL\bin\System.Web.WebPages.Deployment.dll
+f:\Projekty\RadziuKlinikia\System OPL\bin\System.Web.WebPages.dll
+f:\Projekty\RadziuKlinikia\System OPL\bin\System.Web.WebPages.Razor.dll
+f:\Projekty\RadziuKlinikia\System OPL\bin\WebGrease.dll
+f:\Projekty\RadziuKlinikia\System OPL\bin\WebMatrix.Data.dll
+f:\Projekty\RadziuKlinikia\System OPL\bin\WebMatrix.WebData.dll
+f:\Projekty\RadziuKlinikia\System OPL\bin\EntityFramework.xml
+f:\Projekty\RadziuKlinikia\System OPL\bin\Newtonsoft.Json.xml
+f:\Projekty\RadziuKlinikia\System OPL\bin\System.Net.Http.Formatting.xml
+f:\Projekty\RadziuKlinikia\System OPL\bin\System.Web.Helpers.xml
+f:\Projekty\RadziuKlinikia\System OPL\bin\System.Web.Http.xml
+f:\Projekty\RadziuKlinikia\System OPL\bin\System.Web.Http.WebHost.xml
+f:\Projekty\RadziuKlinikia\System OPL\bin\System.Web.Mvc.xml
+f:\Projekty\RadziuKlinikia\System OPL\bin\System.Web.Razor.xml
+f:\Projekty\RadziuKlinikia\System OPL\bin\System.Web.WebPages.xml
+f:\Projekty\RadziuKlinikia\System OPL\bin\System.Web.WebPages.Deployment.xml
+f:\Projekty\RadziuKlinikia\System OPL\bin\System.Web.WebPages.Razor.xml
+f:\Projekty\RadziuKlinikia\System OPL\bin\WebMatrix.Data.xml
+f:\Projekty\RadziuKlinikia\System OPL\bin\Microsoft.Web.WebPages.OAuth.xml
+f:\Projekty\RadziuKlinikia\System OPL\bin\WebMatrix.WebData.xml
+f:\Projekty\RadziuKlinikia\System OPL\bin\DotNetOpenAuth.AspNet.xml
+f:\Projekty\RadziuKlinikia\System OPL\bin\DotNetOpenAuth.Core.xml
+f:\Projekty\RadziuKlinikia\System OPL\bin\DotNetOpenAuth.OAuth.Consumer.xml
+f:\Projekty\RadziuKlinikia\System OPL\bin\DotNetOpenAuth.OAuth.xml
+f:\Projekty\RadziuKlinikia\System OPL\bin\DotNetOpenAuth.OpenId.xml
+f:\Projekty\RadziuKlinikia\System OPL\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+f:\Projekty\RadziuKlinikia\System OPL\bin\System.Web.Http.OData.xml
+f:\Projekty\RadziuKlinikia\System OPL\bin\Microsoft.Data.Edm.xml
+f:\Projekty\RadziuKlinikia\System OPL\bin\Microsoft.Data.OData.xml
+f:\Projekty\RadziuKlinikia\System OPL\bin\System.Spatial.xml
+f:\Projekty\RadziuKlinikia\System OPL\bin\de\Microsoft.Data.Edm.resources.dll
+f:\Projekty\RadziuKlinikia\System OPL\bin\es\Microsoft.Data.Edm.resources.dll
+f:\Projekty\RadziuKlinikia\System OPL\bin\fr\Microsoft.Data.Edm.resources.dll
+f:\Projekty\RadziuKlinikia\System OPL\bin\it\Microsoft.Data.Edm.resources.dll
+f:\Projekty\RadziuKlinikia\System OPL\bin\ja\Microsoft.Data.Edm.resources.dll
+f:\Projekty\RadziuKlinikia\System OPL\bin\ko\Microsoft.Data.Edm.resources.dll
+f:\Projekty\RadziuKlinikia\System OPL\bin\ru\Microsoft.Data.Edm.resources.dll
+f:\Projekty\RadziuKlinikia\System OPL\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+f:\Projekty\RadziuKlinikia\System OPL\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+f:\Projekty\RadziuKlinikia\System OPL\bin\de\Microsoft.Data.OData.resources.dll
+f:\Projekty\RadziuKlinikia\System OPL\bin\es\Microsoft.Data.OData.resources.dll
+f:\Projekty\RadziuKlinikia\System OPL\bin\fr\Microsoft.Data.OData.resources.dll
+f:\Projekty\RadziuKlinikia\System OPL\bin\it\Microsoft.Data.OData.resources.dll
+f:\Projekty\RadziuKlinikia\System OPL\bin\ja\Microsoft.Data.OData.resources.dll
+f:\Projekty\RadziuKlinikia\System OPL\bin\ko\Microsoft.Data.OData.resources.dll
+f:\Projekty\RadziuKlinikia\System OPL\bin\ru\Microsoft.Data.OData.resources.dll
+f:\Projekty\RadziuKlinikia\System OPL\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+f:\Projekty\RadziuKlinikia\System OPL\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+f:\Projekty\RadziuKlinikia\System OPL\bin\de\System.Spatial.resources.dll
+f:\Projekty\RadziuKlinikia\System OPL\bin\es\System.Spatial.resources.dll
+f:\Projekty\RadziuKlinikia\System OPL\bin\fr\System.Spatial.resources.dll
+f:\Projekty\RadziuKlinikia\System OPL\bin\it\System.Spatial.resources.dll
+f:\Projekty\RadziuKlinikia\System OPL\bin\ja\System.Spatial.resources.dll
+f:\Projekty\RadziuKlinikia\System OPL\bin\ko\System.Spatial.resources.dll
+f:\Projekty\RadziuKlinikia\System OPL\bin\ru\System.Spatial.resources.dll
+f:\Projekty\RadziuKlinikia\System OPL\bin\zh-Hans\System.Spatial.resources.dll
+f:\Projekty\RadziuKlinikia\System OPL\bin\zh-Hant\System.Spatial.resources.dll
+f:\Projekty\RadziuKlinikia\System OPL\obj\Debug\System_OPL.migracja.resources
+f:\Projekty\RadziuKlinikia\System OPL\obj\Debug\System_OPL.csproj.GenerateResource.Cache
+f:\Projekty\RadziuKlinikia\System OPL\obj\Debug\System_OPL.dll
+f:\Projekty\RadziuKlinikia\System OPL\obj\Debug\System_OPL.pdb
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\System_OPL.dll.config
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\System_OPL.dll
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\System_OPL.pdb
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\Antlr3.Runtime.dll
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\DotNetOpenAuth.AspNet.dll
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\DotNetOpenAuth.Core.dll
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\DotNetOpenAuth.OAuth.Consumer.dll
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\DotNetOpenAuth.OAuth.dll
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\DotNetOpenAuth.OpenId.dll
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\EntityFramework.dll
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\Microsoft.Data.Edm.dll
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\Microsoft.Data.OData.dll
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\Microsoft.Web.Infrastructure.dll
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\Microsoft.Web.WebPages.OAuth.dll
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\Newtonsoft.Json.dll
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\System.Net.Http.Formatting.dll
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\System.Spatial.dll
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\System.Web.Helpers.dll
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\System.Web.Http.dll
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\System.Web.Http.OData.dll
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\System.Web.Http.WebHost.dll
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\System.Web.Mvc.dll
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\System.Web.Optimization.dll
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\System.Web.Razor.dll
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\System.Web.WebPages.Deployment.dll
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\System.Web.WebPages.dll
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\System.Web.WebPages.Razor.dll
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\WebGrease.dll
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\WebMatrix.Data.dll
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\WebMatrix.WebData.dll
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\EntityFramework.xml
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\Newtonsoft.Json.xml
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\System.Net.Http.Formatting.xml
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\System.Web.Helpers.xml
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\System.Web.Http.xml
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\System.Web.Http.WebHost.xml
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\System.Web.Mvc.xml
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\System.Web.Razor.xml
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\System.Web.WebPages.xml
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\System.Web.WebPages.Deployment.xml
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\System.Web.WebPages.Razor.xml
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\WebMatrix.Data.xml
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\Microsoft.Web.WebPages.OAuth.xml
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\WebMatrix.WebData.xml
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\DotNetOpenAuth.AspNet.xml
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\DotNetOpenAuth.Core.xml
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\DotNetOpenAuth.OAuth.Consumer.xml
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\DotNetOpenAuth.OAuth.xml
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\DotNetOpenAuth.OpenId.xml
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\System.Web.Http.OData.xml
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\Microsoft.Data.Edm.xml
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\Microsoft.Data.OData.xml
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\System.Spatial.xml
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\de\Microsoft.Data.Edm.resources.dll
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\es\Microsoft.Data.Edm.resources.dll
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\fr\Microsoft.Data.Edm.resources.dll
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\it\Microsoft.Data.Edm.resources.dll
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\ja\Microsoft.Data.Edm.resources.dll
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\ko\Microsoft.Data.Edm.resources.dll
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\ru\Microsoft.Data.Edm.resources.dll
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\de\Microsoft.Data.OData.resources.dll
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\es\Microsoft.Data.OData.resources.dll
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\fr\Microsoft.Data.OData.resources.dll
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\it\Microsoft.Data.OData.resources.dll
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\ja\Microsoft.Data.OData.resources.dll
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\ko\Microsoft.Data.OData.resources.dll
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\ru\Microsoft.Data.OData.resources.dll
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\de\System.Spatial.resources.dll
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\es\System.Spatial.resources.dll
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\fr\System.Spatial.resources.dll
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\it\System.Spatial.resources.dll
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\ja\System.Spatial.resources.dll
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\ko\System.Spatial.resources.dll
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\ru\System.Spatial.resources.dll
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\zh-Hans\System.Spatial.resources.dll
+f:\radziu_klinika\RadziuKlinikia\System OPL\bin\zh-Hant\System.Spatial.resources.dll
+f:\radziu_klinika\RadziuKlinikia\System OPL\obj\Debug\System_OPL.csprojResolveAssemblyReference.cache
+f:\radziu_klinika\RadziuKlinikia\System OPL\obj\Debug\System_OPL.migracja.resources
+f:\radziu_klinika\RadziuKlinikia\System OPL\obj\Debug\System_OPL.csproj.GenerateResource.Cache
+f:\radziu_klinika\RadziuKlinikia\System OPL\obj\Debug\System_OPL.dll
+f:\radziu_klinika\RadziuKlinikia\System OPL\obj\Debug\System_OPL.pdb
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\System_OPL.dll.config
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\System_OPL.dll
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\System_OPL.pdb
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\Antlr3.Runtime.dll
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\DotNetOpenAuth.Core.dll
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\EntityFramework.dll
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\Microsoft.Data.Edm.dll
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\Microsoft.Data.OData.dll
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\Newtonsoft.Json.dll
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\System.Spatial.dll
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\System.Web.Helpers.dll
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\System.Web.Http.OData.dll
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\System.Web.Mvc.dll
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\System.Web.Optimization.dll
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\System.Web.Razor.dll
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\System.Web.WebPages.dll
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\System.Web.WebPages.Razor.dll
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\WebGrease.dll
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\WebMatrix.Data.dll
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\WebMatrix.WebData.dll
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\EntityFramework.xml
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\Newtonsoft.Json.xml
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\System.Web.Helpers.xml
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\System.Web.Mvc.xml
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\System.Web.Razor.xml
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\System.Web.WebPages.xml
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\System.Web.WebPages.Razor.xml
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\WebMatrix.Data.xml
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\WebMatrix.WebData.xml
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\DotNetOpenAuth.Core.xml
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\System.Web.Http.OData.xml
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\Microsoft.Data.Edm.xml
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\Microsoft.Data.OData.xml
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\System.Spatial.xml
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\de\System.Spatial.resources.dll
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\es\System.Spatial.resources.dll
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\fr\System.Spatial.resources.dll
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\it\System.Spatial.resources.dll
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\ja\System.Spatial.resources.dll
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\ko\System.Spatial.resources.dll
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\ru\System.Spatial.resources.dll
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\obj\Debug\System_OPL.csprojResolveAssemblyReference.cache
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\obj\Debug\System_OPL.migracja.resources
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\obj\Debug\System_OPL.csproj.GenerateResource.Cache
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\obj\Debug\System_OPL.dll
+C:\Users\Kamil Ślusarczyk\Desktop\Klinika\System OPL\obj\Debug\System_OPL.pdb

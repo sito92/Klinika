@@ -1,0 +1,42 @@
+﻿@model System_OPL.Models.Patient
+@{
+    ViewBag.Title = "Rejestracja";
+}
+
+<hgroup class="title">
+    <h1>@ViewBag.Title.</h1>
+    <h2>Wprowadz dane pacjentki do rejestracji.</h2>
+</hgroup>
+
+@using (Html.BeginForm()) {
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary()
+
+    <fieldset>
+        <legend>Registration Form</legend>
+        <ol>
+            <li>
+                @Html.LabelFor(m => m.Name)
+                @Html.TextBoxFor(m => m.Name)
+            </li>
+            <li>
+                @Html.LabelFor(m => m.Surname)
+                @Html.TextBoxFor(m => m.Surname)
+            </li>
+            <li>
+                @Html.LabelFor(m => m.ContactData)
+                @Html.TextBoxFor(m => m.ContactData)
+            </li>
+            <li>
+                @Html.LabelFor(m => m.HealthStatus)
+                @Html.TextBoxFor(m => m.HealthStatus)
+            </li>
+           
+        </ol>
+        <input type="submit" value="Zarejestruj" />
+    </fieldset>
+}
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

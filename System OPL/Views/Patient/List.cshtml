@@ -1,0 +1,69 @@
+﻿@model System.Collections.Generic.IEnumerable<System_OPL.Models.Patient>
+
+@{
+    ViewBag.Title = "Lista Pacjentek";
+}
+
+<h2>Pacjentki</h2>
+@ViewBag.NotYourNews
+<p>
+    @Html.ActionLink("Lista noworodków", "List", "Infant")
+    <br />
+    <br />
+    @Html.ActionLink("Zarejestruj pacjentkę", "Register", "Patient")
+
+</p>
+<div class="CSSTableGenerator">
+    <table>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Surname)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Doctors)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ContactData)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.HealthStatus)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Surname)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Doctors.Name) @Html.DisplayFor(modelItem => item.Doctors.Surname)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ContactData)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.HealthStatus)
+                </td>
+                <td>
+                    @Html.ActionLink("Badania", "List", "Test", new { newsId = item.Id }, null) |
+                    @Html.ActionLink("Dzieci", "", "", new { newsId = item.Id }, null)
+                </td>
+            </tr>
+        }
+
+    </table>
+</div>
