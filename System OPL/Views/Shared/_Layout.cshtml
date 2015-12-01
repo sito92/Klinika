@@ -23,9 +23,10 @@
                     <nav>
                         <ul id="menu">
                             <li>@Html.ActionLink("Pacjenci", "List", "Patient")</li>
+                            @*<a href="~/Views/Shared/_Layout.cshtml">~/Views/Shared/_Layout.cshtml</a>*@
                             <li>@Html.ActionLink("Zadania", "Index", "Test")</li>
                             <li>@Html.ActionLink("Zasoby", "List", "Supply")</li>
-                            <li>@Html.ActionLink("Baza danych", )</li>                           
+                            <li>@Html.ActionLink("Baza danych","FakerCreate","Patient" )</li>                           
                         </ul>
                     </nav>
                     }

@@ -9,6 +9,21 @@ namespace System_OPL.Models
     public class PatientRepository
     {
         private OplContext context;
+        private List<string> healthStatusList; 
+
+        public PatientRepository()
+        {
+            context=new OplContext();
+            healthStatusList = new List<string>()
+            {
+                "Zdrowy",
+                "Obserwacja",
+                "Zaraża",
+                "Krytyczny",
+                "Pooperacyjny",
+                "Wypisany"
+            };
+        }
 
         public void ClientFakerInsert(int amountOfPatients)
         {
@@ -31,9 +46,11 @@ namespace System_OPL.Models
         {
            var healthStatus = new HealthStatus()
            {
-               //Content = 
+               Content = healthStatusList[new Random().Next(0,6)] 
            };
 
+            context.HealthStatuses.AddOrUpdate(healthStatus);
+            context.SaveChanges();
             return healthStatus.Id;
         }
 
@@ -45,6 +62,7 @@ namespace System_OPL.Models
                 Surname = Faker.NameFaker.LastName(),
                 OfficeNumber = Faker.NumberFaker.Number(1,30),
                 WorkHourId = 1,
+                ContactData = Faker.StringFaker.Numeric(9)
             };
             doctor.UserName = doctor.Name[0] + doctor.Surname;
 

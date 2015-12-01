@@ -68,16 +68,17 @@ namespace System_OPL
         public ActionResult List()
         {
             IQueryable<Patient> patients;
-            if (Roles.IsUserInRole("Ordynator"))
-            {
-                patients = context.Patients;
-            }
-            else
-            {
-                var userId = WebSecurity.GetUserId(User.Identity.Name);
-                patients = context.Patients.Where(x => x.DoctorId == userId);
+            //if (Roles.IsUserInRole("Ordynator"))
+            //{
+            //    patients = context.Patients;
+            //}
+            //else
+            //{
+            //    var userId = WebSecurity.GetUserId(User.Identity.Name);
+            //    patients = context.Patients.Where(x => x.DoctorId == userId);
+            //}
 
-            }
+            patients = context.Patients;
 
             return View(patients);
         }
