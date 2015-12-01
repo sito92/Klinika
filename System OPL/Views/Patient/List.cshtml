@@ -1,69 +1,52 @@
-﻿@model System.Collections.Generic.IEnumerable<System_OPL.Models.Patient>
+﻿@model IEnumerable<System_OPL.Models.Patient>
 
 @{
-    ViewBag.Title = "Lista Pacjentek";
+    ViewBag.Title = "List";
 }
 
-<h2>Pacjentki</h2>
-@ViewBag.NotYourNews
+<h2>List</h2>
+
 <p>
-    @Html.ActionLink("Lista noworodków", "List", "Infant")
-    <br />
-    <br />
-    @Html.ActionLink("Zarejestruj pacjentkę", "Register", "Patient")
-
+    @Html.ActionLink("Create New", "Create")
 </p>
-<div class="CSSTableGenerator">
-    <table>
-        <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.Id)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Name)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Surname)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Doctors)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.ContactData)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.HealthStatus)
-            </th>
-            <th></th>
-        </tr>
+<table>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Surname)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ContactDataId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.HealthStatusId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DoctorId)
+        </th>
+        <th></th>
+    </tr>
 
-        @foreach (var item in Model)
-        {
-            <tr>
-                <td>
-                    @Html.DisplayFor(modelItem => item.Id)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.Name)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.Surname)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.Doctors.Name) @Html.DisplayFor(modelItem => item.Doctors.Surname)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.ContactData)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.HealthStatus)
-                </td>
-                <td>
-                    @Html.ActionLink("Badania", "List", "Test", new { newsId = item.Id }, null) |
-                    @Html.ActionLink("Dzieci", "", "", new { newsId = item.Id }, null)
-                </td>
-            </tr>
-        }
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Surname)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ContactDataId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.HealthStatusId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DoctorId)
+        </td>
+    </tr>
+}
 
-    </table>
-</div>
+</table>

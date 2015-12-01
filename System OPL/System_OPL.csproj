@@ -324,7 +324,6 @@
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
     <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Views\Web.config" />
-    <Content Include="Views\Patient\List.cshtml" />
     <Content Include="Views\Patient\Details.cshtml" />
     <Content Include="Views\Supply\List.cshtml" />
     <Content Include="Views\Infant\Register.cshtml" />
@@ -337,6 +336,7 @@
     <Content Include="Views\Test\Edit.cshtml" />
     <Content Include="Views\Test\Delete.cshtml" />
     <Content Include="Views\Patient\FakerCreate.cshtml" />
+    <Content Include="Views\Patient\List.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
